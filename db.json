@@ -1,0 +1,47 @@
+{
+	"rws": {
+		"property": {
+			"deviceinfo": {
+				"deviceDescription": {
+					"serialNumber": "SD481100001",
+					"destination": "north_america",
+					"location": "",
+					"description": "",
+					"modelName": "MP C4503",
+					"vendorName": "RICOH",
+					"machineName": "RICOH MP C4503",
+					"deviceUUID": "f9a7f0c81dd111b2bf98a690d2baf1fd",
+					"paperSizeType": "japan"
+				},
+				"plotter": {
+					"colorSupported": "full_color",
+					"feedTrayInfo": {
+						"connectedFeedTrayConfigInfo": [{
+								"name": "manual",
+								"kind": "standard_tray"
+							},
+							{
+								"name": "tray1",
+								"kind": "standard_tray"
+							},
+							{
+								"name": "tray2",
+								"kind": "standard_tray"
+							},
+							{
+								"name": "tray3",
+								"kind": "tandem_tray"
+							}
+						]
+					}
+				},
+				"scanner": {
+					"colorSupported": "full_color"
+				},
+				"panel": {
+					"isMultiLinkPanel": true
+				}
+			}
+		}
+	}
+}
