@@ -1,5 +1,5 @@
 {
-	"rws/property/deviceinfo": {
+	"rws-property-deviceinfo": {
 				"deviceDescription": {
 					"serialNumber": "SD481100001",
 					"destination": "north_america",
